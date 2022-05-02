@@ -8,3 +8,13 @@ python3 baselines/AttentiveChrome/train.py
 ```
 python3 train.py
 ```
+
+## Bin Generator
+```
+Assign reads into bins.
+
+Compile use clang++.
+
+Multi-threaded, able to process all raw data in 5 minutes.
+
+```
